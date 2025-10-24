@@ -361,9 +361,10 @@ the Free Software Foundation, either version 3 of the License, or
 
 ## 🌟 Acknowledgments
 
-- Original inspiration from password generation research
-- Real-world password breach analysis
+- **Inspired by:** [longtongue](https://github.com/edoardottt/longtongue) by [@edoardottt](https://github.com/edoardottt)
+- Real-world password breach analysis (RockYou, LinkedIn, Adobe)
 - Security research community
+- Password generation research and best practices
 
 ---
 
